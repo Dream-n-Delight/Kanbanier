@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Dream-n-Delight/Kanbanier/issues"
   },
-  "homepage": "https://github.com/Dream-n-Delight/Kanbanier#readme"
+  "homepage": "https://github.com/Dream-n-Delight/Kanbanier#readme",
+  "dependencies": {
+    "electron": "^10.1.1"
+  }
 }
