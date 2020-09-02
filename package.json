@@ -1,0 +1,19 @@
+{
+  "name": "kanbanier",
+  "version": "1.0.0",
+  "description": "Kanbanier is a simple to use kanban style project manager. Create simple kanbans, connect them to your server and invite people.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dream-n-Delight/Kanbanier.git"
+  },
+  "author": "Arijan Nikoci (dehys)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dream-n-Delight/Kanbanier/issues"
+  },
+  "homepage": "https://github.com/Dream-n-Delight/Kanbanier#readme"
+}
