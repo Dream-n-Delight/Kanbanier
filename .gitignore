@@ -121,10 +121,11 @@ dist
 .settings/
  
 # Intellij
-.idea/
+../kanbanier/.idea/
 *.iml
 *.iws
 out/
+.idea/
  
 # Mac
 .DS_Store

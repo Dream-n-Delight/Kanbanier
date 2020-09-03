@@ -3,7 +3,7 @@
   "productName": "Kanbanier",
   "version": "1.0.0",
   "description": "My Electron application description",
-  "main": "src/main/org/dreamndelight/kanbanier/nodejs/main.js",
+  "main": "src/main/nodejs/org/dreamndelight/kanbanier/main.js",
   "scripts": {
     "start": "electron-forge start",
     "package": "electron-forge package",
