@@ -124,6 +124,7 @@ dist
 .idea/
 *.iml
 *.iws
+out/
  
 # Mac
 .DS_Store
@@ -131,3 +132,4 @@ dist
 # Maven
 log/
 target/
+src/test/
