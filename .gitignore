@@ -114,3 +114,24 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Eclipse
+.classpath
+.project
+.settings/
+ 
+# Intellij
+../kanbanier/.idea/
+*.iml
+*.iws
+out/
+.idea/
+ 
+# Mac
+.DS_Store
+ 
+# Maven
+log/
+target/
+src/test/
+dependency-reduced-pom.xml
